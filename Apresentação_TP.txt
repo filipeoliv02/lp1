@@ -1,0 +1,25 @@
+Apresentação:
+Rui S. Moreira
+rmoreira@ufp.edu.pt
+
+
+Conteúdo:
+Linguagem de Progamação I -> Progamação Estruturada Imperativa [C]
+
+
+Avaliação:
+(25% F1 + 45% F2) + (30% Proj)
+TP + PL
+Frequências em Papel e Lápis
+1ª Frequência sem consulta
+2ª Frequência com consulta de apontamentos(sem computador)
+
+
+Bibliografia:
+Linguagem C, Luis Damas, FCA
+The C Programming Language, Kerninghan/Ritchie Prentice Hall
+
+
+IDE:
+XCode
+CLion

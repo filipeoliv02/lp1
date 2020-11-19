@@ -1,0 +1,3 @@
+/home/filipe/Documents/university/LP1/lp1_ufp/CMakeFiles/rebuild_cache.dir
+/home/filipe/Documents/university/LP1/lp1_ufp/CMakeFiles/edit_cache.dir
+/home/filipe/Documents/university/LP1/lp1_ufp/CMakeFiles/lp1_ufp.dir
