@@ -37,7 +37,7 @@ int **create_dynmatrix_ints(int lines, int columns) {
 void print_dynmatrix_ints(int **ppints, int lines, int columns) {
     for (int lin = 0; lin < lines; lin++) {
         for (int col = 0; col < columns; col++) {
-            printf("%d\t", *(*(ppints + lin)+col);
+            printf("%d\t", *(*(ppints + lin)+col));
         }
         printf("\n");
     }

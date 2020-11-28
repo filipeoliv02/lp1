@@ -1,4 +1,4 @@
-/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/filipe/Documents/university/LP1/lp1_ufp
+/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/filipe/Documents/university/lp1/lp1_ufp
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/filipe/Documents/university/LP1/lp1_ufp
+-- Build files have been written to: /home/filipe/Documents/university/lp1/lp1_ufp

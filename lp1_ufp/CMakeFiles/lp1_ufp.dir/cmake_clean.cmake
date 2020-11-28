@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/lp1_ufp.dir/pr03.c.o"
   "CMakeFiles/lp1_ufp.dir/pr04.c.o"
   "CMakeFiles/lp1_ufp.dir/pr05.c.o"
+  "CMakeFiles/lp1_ufp.dir/pr09.c.o"
   "CMakeFiles/lp1_ufp.dir/tp03.c.o"
   "CMakeFiles/lp1_ufp.dir/tp04.c.o"
   "CMakeFiles/lp1_ufp.dir/tp05.c.o"
