@@ -6,23 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/filipe/Documents/university/LP1/lp1_ufp/tp03.h
-stdio.h
--
-ctype.h
--
+/home/filipe/Documents/university/lp1/lp1_ufp/main.c
+tp11.h
+/home/filipe/Documents/university/lp1/lp1_ufp/tp11.h
 
-/home/filipe/Documents/university/LP1/lp1_ufp/tp07e08.c
-tp07e08.h
-/home/filipe/Documents/university/LP1/lp1_ufp/tp07e08.h
+/home/filipe/Documents/university/lp1/lp1_ufp/tp11.c
+tp11.h
+/home/filipe/Documents/university/lp1/lp1_ufp/tp11.h
 
-/home/filipe/Documents/university/LP1/lp1_ufp/tp07e08.h
+/home/filipe/Documents/university/lp1/lp1_ufp/tp11.h
 stdio.h
 -
 stdlib.h
 -
 string.h
 -
-tp03.h
-/home/filipe/Documents/university/LP1/lp1_ufp/tp03.h
 

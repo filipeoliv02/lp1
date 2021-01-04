@@ -10,6 +10,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/lp1_ufp.dir/tp05.c.o"
   "CMakeFiles/lp1_ufp.dir/tp06.c.o"
   "CMakeFiles/lp1_ufp.dir/tp07e08.c.o"
+  "CMakeFiles/lp1_ufp.dir/tp11.c.o"
   "lp1_ufp"
   "lp1_ufp.pdb"
 )
