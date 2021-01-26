@@ -11,30 +11,51 @@
 				<Option working_dir="/home/filipe/Documents/university/lp1/lp1_ufp"/>
 				<Option type="4"/>
 				<MakeCommands>
+<<<<<<< HEAD
 					<Build command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 all"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+=======
+					<Build command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
 				<Option working_dir="/home/filipe/Documents/university/lp1/lp1_ufp"/>
 				<Option type="4"/>
 				<MakeCommands>
+<<<<<<< HEAD
 					<Build command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+=======
+					<Build command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="/home/filipe/Documents/university/lp1/lp1_ufp"/>
 				<Option type="4"/>
 				<MakeCommands>
+<<<<<<< HEAD
 					<Build command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 edit_cache"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+=======
+					<Build command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 				</MakeCommands>
 			</Target>
 			<Target title="lp1_ufp">
@@ -50,10 +71,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
+<<<<<<< HEAD
 					<Build command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 lp1_ufp"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+=======
+					<Build command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 lp1_ufp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 				</MakeCommands>
 			</Target>
 			<Target title="lp1_ufp/fast">
@@ -69,10 +97,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
+<<<<<<< HEAD
 					<Build command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 lp1_ufp/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+=======
+					<Build command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 lp1_ufp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/filipe/Documents/university/lp1/lp1_ufp/Makefile&quot;  VERBOSE=1 clean"/>
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 				</MakeCommands>
 			</Target>
 		</Build>
@@ -109,6 +144,7 @@
 		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/pr05.h">
 			<Option target="lp1_ufp"/>
 		</Unit>
+<<<<<<< HEAD
 		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/tp03.c">
 			<Option target="lp1_ufp"/>
 		</Unit>
@@ -143,6 +179,42 @@
 			<Option target="lp1_ufp"/>
 		</Unit>
 		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/tp11.h">
+=======
+		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/pr09.c">
+			<Option target="lp1_ufp"/>
+		</Unit>
+		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/pr09.h">
+			<Option target="lp1_ufp"/>
+		</Unit>
+		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/tp03.c">
+			<Option target="lp1_ufp"/>
+		</Unit>
+		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/tp03.h">
+			<Option target="lp1_ufp"/>
+		</Unit>
+		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/tp04.c">
+			<Option target="lp1_ufp"/>
+		</Unit>
+		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/tp04.h">
+			<Option target="lp1_ufp"/>
+		</Unit>
+		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/tp05.c">
+			<Option target="lp1_ufp"/>
+		</Unit>
+		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/tp05.h">
+			<Option target="lp1_ufp"/>
+		</Unit>
+		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/tp06.c">
+			<Option target="lp1_ufp"/>
+		</Unit>
+		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/tp06.h">
+			<Option target="lp1_ufp"/>
+		</Unit>
+		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/tp07e08.c">
+			<Option target="lp1_ufp"/>
+		</Unit>
+		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/tp07e08.h">
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 			<Option target="lp1_ufp"/>
 		</Unit>
 		<Unit filename="/home/filipe/Documents/university/lp1/lp1_ufp/CMakeLists.txt">

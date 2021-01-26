@@ -304,6 +304,33 @@ pr05.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lp1_ufp.dir/build.make CMakeFiles/lp1_ufp.dir/pr05.c.s
 .PHONY : pr05.c.s
 
+pr09.o: pr09.c.o
+
+.PHONY : pr09.o
+
+# target to build an object file
+pr09.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lp1_ufp.dir/build.make CMakeFiles/lp1_ufp.dir/pr09.c.o
+.PHONY : pr09.c.o
+
+pr09.i: pr09.c.i
+
+.PHONY : pr09.i
+
+# target to preprocess a source file
+pr09.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lp1_ufp.dir/build.make CMakeFiles/lp1_ufp.dir/pr09.c.i
+.PHONY : pr09.c.i
+
+pr09.s: pr09.c.s
+
+.PHONY : pr09.s
+
+# target to generate assembly for a file
+pr09.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lp1_ufp.dir/build.make CMakeFiles/lp1_ufp.dir/pr09.c.s
+.PHONY : pr09.c.s
+
 tp03.o: tp03.c.o
 
 .PHONY : tp03.o
@@ -493,6 +520,9 @@ help:
 	@echo "... pr05.o"
 	@echo "... pr05.i"
 	@echo "... pr05.s"
+	@echo "... pr09.o"
+	@echo "... pr09.i"
+	@echo "... pr09.s"
 	@echo "... tp03.o"
 	@echo "... tp03.i"
 	@echo "... tp03.s"

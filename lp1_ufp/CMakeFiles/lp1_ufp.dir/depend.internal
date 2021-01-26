@@ -3,7 +3,20 @@
 
 CMakeFiles/lp1_ufp.dir/main.c.o
  /home/filipe/Documents/university/lp1/lp1_ufp/main.c
+<<<<<<< HEAD
  /home/filipe/Documents/university/lp1/lp1_ufp/tp11.h
+=======
+ /home/filipe/Documents/university/lp1/lp1_ufp/pr00.h
+ /home/filipe/Documents/university/lp1/lp1_ufp/pr01.h
+ /home/filipe/Documents/university/lp1/lp1_ufp/pr02.h
+ /home/filipe/Documents/university/lp1/lp1_ufp/pr03.h
+ /home/filipe/Documents/university/lp1/lp1_ufp/pr04.h
+ /home/filipe/Documents/university/lp1/lp1_ufp/pr05.h
+ /home/filipe/Documents/university/lp1/lp1_ufp/pr09.h
+ /home/filipe/Documents/university/lp1/lp1_ufp/tp03.h
+ /home/filipe/Documents/university/lp1/lp1_ufp/tp04.h
+ /home/filipe/Documents/university/lp1/lp1_ufp/tp07e08.h
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 CMakeFiles/lp1_ufp.dir/pr01.c.o
  /home/filipe/Documents/university/lp1/lp1_ufp/pr01.c
  /home/filipe/Documents/university/lp1/lp1_ufp/pr01.h
@@ -19,6 +32,12 @@ CMakeFiles/lp1_ufp.dir/pr04.c.o
 CMakeFiles/lp1_ufp.dir/pr05.c.o
  /home/filipe/Documents/university/lp1/lp1_ufp/pr05.c
  /home/filipe/Documents/university/lp1/lp1_ufp/pr05.h
+<<<<<<< HEAD
+=======
+CMakeFiles/lp1_ufp.dir/pr09.c.o
+ /home/filipe/Documents/university/lp1/lp1_ufp/pr09.c
+ /home/filipe/Documents/university/lp1/lp1_ufp/pr09.h
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 CMakeFiles/lp1_ufp.dir/tp03.c.o
  /home/filipe/Documents/university/lp1/lp1_ufp/tp03.c
  /home/filipe/Documents/university/lp1/lp1_ufp/tp03.h
@@ -36,6 +55,9 @@ CMakeFiles/lp1_ufp.dir/tp07e08.c.o
  /home/filipe/Documents/university/lp1/lp1_ufp/tp03.h
  /home/filipe/Documents/university/lp1/lp1_ufp/tp07e08.c
  /home/filipe/Documents/university/lp1/lp1_ufp/tp07e08.h
+<<<<<<< HEAD
 CMakeFiles/lp1_ufp.dir/tp11.c.o
  /home/filipe/Documents/university/lp1/lp1_ufp/tp11.c
  /home/filipe/Documents/university/lp1/lp1_ufp/tp11.h
+=======
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9

@@ -219,6 +219,7 @@ CMakeFiles/lp1_ufp.dir/tp07e08.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lp1_ufp.dir/tp07e08.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/filipe/Documents/university/lp1/lp1_ufp/tp07e08.c -o CMakeFiles/lp1_ufp.dir/tp07e08.c.s
 
+<<<<<<< HEAD
 CMakeFiles/lp1_ufp.dir/tp11.c.o: CMakeFiles/lp1_ufp.dir/flags.make
 CMakeFiles/lp1_ufp.dir/tp11.c.o: tp11.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/filipe/Documents/university/lp1/lp1_ufp/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/lp1_ufp.dir/tp11.c.o"
@@ -231,6 +232,20 @@ CMakeFiles/lp1_ufp.dir/tp11.c.i: cmake_force
 CMakeFiles/lp1_ufp.dir/tp11.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lp1_ufp.dir/tp11.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/filipe/Documents/university/lp1/lp1_ufp/tp11.c -o CMakeFiles/lp1_ufp.dir/tp11.c.s
+=======
+CMakeFiles/lp1_ufp.dir/pr09.c.o: CMakeFiles/lp1_ufp.dir/flags.make
+CMakeFiles/lp1_ufp.dir/pr09.c.o: pr09.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/filipe/Documents/university/lp1/lp1_ufp/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/lp1_ufp.dir/pr09.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lp1_ufp.dir/pr09.c.o -c /home/filipe/Documents/university/lp1/lp1_ufp/pr09.c
+
+CMakeFiles/lp1_ufp.dir/pr09.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lp1_ufp.dir/pr09.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/filipe/Documents/university/lp1/lp1_ufp/pr09.c > CMakeFiles/lp1_ufp.dir/pr09.c.i
+
+CMakeFiles/lp1_ufp.dir/pr09.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lp1_ufp.dir/pr09.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/filipe/Documents/university/lp1/lp1_ufp/pr09.c -o CMakeFiles/lp1_ufp.dir/pr09.c.s
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 
 # Object files for target lp1_ufp
 lp1_ufp_OBJECTS = \
@@ -245,7 +260,11 @@ lp1_ufp_OBJECTS = \
 "CMakeFiles/lp1_ufp.dir/tp05.c.o" \
 "CMakeFiles/lp1_ufp.dir/tp06.c.o" \
 "CMakeFiles/lp1_ufp.dir/tp07e08.c.o" \
+<<<<<<< HEAD
 "CMakeFiles/lp1_ufp.dir/tp11.c.o"
+=======
+"CMakeFiles/lp1_ufp.dir/pr09.c.o"
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 
 # External object files for target lp1_ufp
 lp1_ufp_EXTERNAL_OBJECTS =
@@ -261,7 +280,11 @@ lp1_ufp: CMakeFiles/lp1_ufp.dir/pr05.c.o
 lp1_ufp: CMakeFiles/lp1_ufp.dir/tp05.c.o
 lp1_ufp: CMakeFiles/lp1_ufp.dir/tp06.c.o
 lp1_ufp: CMakeFiles/lp1_ufp.dir/tp07e08.c.o
+<<<<<<< HEAD
 lp1_ufp: CMakeFiles/lp1_ufp.dir/tp11.c.o
+=======
+lp1_ufp: CMakeFiles/lp1_ufp.dir/pr09.c.o
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 lp1_ufp: CMakeFiles/lp1_ufp.dir/build.make
 lp1_ufp: CMakeFiles/lp1_ufp.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/filipe/Documents/university/lp1/lp1_ufp/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking C executable lp1_ufp"

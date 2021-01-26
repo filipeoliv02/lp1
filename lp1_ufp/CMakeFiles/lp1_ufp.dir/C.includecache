@@ -6,6 +6,7 @@
 
 #IncludeRegexTransform: 
 
+<<<<<<< HEAD
 /home/filipe/Documents/university/lp1/lp1_ufp/main.c
 tp11.h
 /home/filipe/Documents/university/lp1/lp1_ufp/tp11.h
@@ -15,10 +16,28 @@ tp11.h
 /home/filipe/Documents/university/lp1/lp1_ufp/tp11.h
 
 /home/filipe/Documents/university/lp1/lp1_ufp/tp11.h
+=======
+/home/filipe/Documents/university/lp1/lp1_ufp/tp03.h
+stdio.h
+-
+ctype.h
+-
+
+/home/filipe/Documents/university/lp1/lp1_ufp/tp07e08.c
+tp07e08.h
+/home/filipe/Documents/university/lp1/lp1_ufp/tp07e08.h
+
+/home/filipe/Documents/university/lp1/lp1_ufp/tp07e08.h
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 stdio.h
 -
 stdlib.h
 -
 string.h
 -
+<<<<<<< HEAD
+=======
+tp03.h
+/home/filipe/Documents/university/lp1/lp1_ufp/tp03.h
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
 

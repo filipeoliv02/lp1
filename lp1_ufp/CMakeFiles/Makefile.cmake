@@ -7,8 +7,13 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+<<<<<<< HEAD
   "CMakeFiles/3.19.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.19.1/CMakeSystem.cmake"
+=======
+  "CMakeFiles/3.19.0/CMakeCCompiler.cmake"
+  "CMakeFiles/3.19.0/CMakeSystem.cmake"
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
   "CMakeLists.txt"
   "/usr/share/cmake-3.19/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake-3.19/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"

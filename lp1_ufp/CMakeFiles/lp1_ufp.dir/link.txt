@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 /usr/bin/cc -g CMakeFiles/lp1_ufp.dir/main.c.o CMakeFiles/lp1_ufp.dir/pr01.c.o CMakeFiles/lp1_ufp.dir/tp03.c.o CMakeFiles/lp1_ufp.dir/pr02.c.o CMakeFiles/lp1_ufp.dir/pr03.c.o CMakeFiles/lp1_ufp.dir/tp04.c.o CMakeFiles/lp1_ufp.dir/pr04.c.o CMakeFiles/lp1_ufp.dir/pr05.c.o CMakeFiles/lp1_ufp.dir/tp05.c.o CMakeFiles/lp1_ufp.dir/tp06.c.o CMakeFiles/lp1_ufp.dir/tp07e08.c.o CMakeFiles/lp1_ufp.dir/tp11.c.o -o lp1_ufp  -lm 
+=======
+/usr/bin/cc -g CMakeFiles/lp1_ufp.dir/main.c.o CMakeFiles/lp1_ufp.dir/pr01.c.o CMakeFiles/lp1_ufp.dir/tp03.c.o CMakeFiles/lp1_ufp.dir/pr02.c.o CMakeFiles/lp1_ufp.dir/pr03.c.o CMakeFiles/lp1_ufp.dir/tp04.c.o CMakeFiles/lp1_ufp.dir/pr04.c.o CMakeFiles/lp1_ufp.dir/pr05.c.o CMakeFiles/lp1_ufp.dir/tp05.c.o CMakeFiles/lp1_ufp.dir/tp06.c.o CMakeFiles/lp1_ufp.dir/tp07e08.c.o CMakeFiles/lp1_ufp.dir/pr09.c.o -o lp1_ufp  -lm 
+>>>>>>> 1b76458e6e06967d2cac4f975aafc1318affb1c9
